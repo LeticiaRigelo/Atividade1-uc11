@@ -9,7 +9,7 @@ public class conectaDAO {
     public Connection getConnection() throws SQLException {
         String url = "jdbc:mysql://localhost:3306/uc11";
         String user = "root";
-        String password = "Wagnerlucia10*";
+        String password = "35616326";
         Connection conn = DriverManager.getConnection(url, user, password);
         return conn;
     }

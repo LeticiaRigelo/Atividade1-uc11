@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Kauan
+ * @author Leticia
  */
 public class ControladorCadastroVIEW {
 

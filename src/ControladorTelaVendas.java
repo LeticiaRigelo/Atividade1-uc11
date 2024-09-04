@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  */
 /**
  *
- * @author Kauan
+ * @author Leticia
  */
 public class ControladorTelaVendas {
 
